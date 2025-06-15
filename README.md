@@ -1,6 +1,6 @@
 I'm excited to share one of my recent data analytics projects — a comprehensive Power BI dashboard analyzing Amazon Prime’s vast collection of Movies and TV Shows!
 
-🔍 Project Overview
+**🔍 Project Overview**
 Using dataset of over 9,600 titles, I designed this interactive dashboard to provide deep insights into:
  
 ✅ Total Titles, Ratings, Genres, Directors & Cast
@@ -15,7 +15,7 @@ Using dataset of over 9,600 titles, I designed this interactive dashboard to pro
 
 ✅ Duration Patterns of Shows
 
-💡 Key Insights
+**💡 Key Insights**
 
 📌 80.82% of the content consists of Movies
 
@@ -25,12 +25,12 @@ Using dataset of over 9,600 titles, I designed this interactive dashboard to pro
 
 📌 Wide variety of content ratings from PG to 18+
 
-📊 Tools Used:
+**📊 Tools Used:**
 Power BI for data visualization
 Data Cleaning using Excel & Power Query
 This project helped me enhance my skills in data storytelling, dashboard design, and insight generation.
 
-📂 GitHub Project Link:
+**📂 GitHub Project Link:**
 https://lnkd.in/g_epgcU2
 
 hashtag#DataAnalytics hashtag#PowerBI hashtag#AmazonPrime hashtag#DashboardDesign hashtag#DataVisualization hashtag#DataScience hashtag#BI hashtag#LinkedInProjects hashtag#DataAnalyst hashtag#PowerBIProjects
